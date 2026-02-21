@@ -20,4 +20,5 @@ If you would like to propose a new standard, formula, or schema, please follow t
 
 ### Further info
 
-Read the whitepaper at [phasestate.io](http://phasestate.io)
+* Read the whitepaper at [phasestate.io](http://phasestate.io)
+* See the protocol in action and download the SDK at [th3makr.dev](http://th3makr.dev)
