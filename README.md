@@ -20,4 +20,4 @@ We do not use standard GitHub Issues. If you want to propose a new standard, for
 
 ### Further info
 
-Read the whitepaper at [phasestate.io](https://phasestate.io)
+Read the whitepaper at [phasestate.io](http://phasestate.io)
