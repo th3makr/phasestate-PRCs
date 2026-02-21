@@ -8,8 +8,8 @@ This repository is where the community defines the mathematical laws of Digital 
 To understand how to contribute to this repository, it is critical to understand the boundary between the Protocol and the Engine:
 
 * **The Protocol (Open & Governed Here):** The mathematical formulas, the baseline thermodynamic schemas (JSON), and the logic for tracking sensory telemetry. This is governed by the community via Phase Requests for Comment (PRCs).
-* **The Engine (Proprietary):** The `th3makr` SDK is the highly optimized, proprietary execution engine that calculates these open laws in real-time. PRCs **do not** dictate changes to the `th3makr` proprietary codebase. 
-* **The Visual Layer (Relative):** The protocol dictates *when* a phase state shifts (Solid, Liquid, Gas, Plasma). It does **not** dictate what that shift looks like. Your CSS, your brand, and your design tokens remain entirely yours.
+* **The Engine (Proprietary):** The `th3makr` SDK is the optimised proprietary execution engine that calculates these open laws in real-time. PRCs **do not** dictate changes to the `th3makr` proprietary codebase. 
+* **The Visual Layer (Relative):** The protocol dictates *when* a phase state shifts (Solid, Liquid, Gas, Plasma). It does **not** dictate what that shift looks like. Your CSS, , product, brand, and your design tokens remain entirely yours.
 
 ### 📜 How to Contribute
 We do not use standard GitHub Issues. If you want to propose a new standard, formula, or schema, please follow the PRC process:
